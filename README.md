@@ -46,6 +46,23 @@ Acredito que a tecnologia pode simplificar vidas e resolver problemas reais. Aqu
 - 📌 **Problema Resolvido:** Automatiza o controle de distribuição de lanches, usando QR codes para verificar se o aluno está apto a receber.
 - 🚀 **Status:** Em desenvolvimento, na fase final de ajustes.
 
+### [**Bingo**](https://github.com/yancafer/bingo-app) 
+>Este é um aplicativo de bingo online criado com **React** e **TypeScript**. Ele oferece uma experiência interativa para jogos de bingo, com funcionalidades de sorteio de números e frases temáticas.
+
+## Tecnologias Utilizadas:
+
+- **React** com **TypeScript**
+- API de **Speech Synthesis** para leitura de frases
+- Estilização com **CSS**
+
+- 🗓️ **Funcionalidades:** 
+  - Sorteio de números do bingo (B, I, N, G, O) com faixas específicas.
+  - Frases temáticas para anunciar os números a partir do quinto sorteio.
+  - Reinício do jogo com números reembaralhados.
+  - Reprodução das chamadas em português com suporte a frases específicas para números como "Dois patinhos na lagoa" e "Idade de Cristo".
+  - Foco em personalização para o tema natalino 🎄.
+- 🚀 **Status:** Finalizado!
+
 ### [**Habit-keeper**](https://github.com/yancafer/habit-keeper)  
 > Um sistema web para rastrear hábitos e auxiliar na resolução de tarefas diárias (TO DO).
 
@@ -55,8 +72,7 @@ Acredito que a tecnologia pode simplificar vidas e resolver problemas reais. Aqu
   - Criação e organização de tarefas na forma de um TO DO interativo.
   - Painel personalizado para cada usuário, ajudando na produtividade.
 - 🚀 **Status:** Em desenvolvimento, com funcionalidades básicas já implementadas.
-
----
+  
 
 ## 📚 O Que Estou Aprendendo Atualmente
 
@@ -69,6 +85,7 @@ Acredito que a tecnologia pode simplificar vidas e resolver problemas reais. Aqu
 ## 🏆 Projetos em Destaque
 
 - [**Ifatech**](https://github.com/yancafer/ifatech-web) - Sistema de controle de lanches para o IFAC.
+- [**Bingo**](https://github.com/yancafer/bingo-app) - Bingo Online!
 - [**Habit-keeper**](https://github.com/yancafer/habit-keeper) - Sistema de rastreamento de hábitos com TO DO interativo.
 
 ---
