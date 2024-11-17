@@ -49,11 +49,7 @@ Acredito que a tecnologia pode simplificar vidas e resolver problemas reais. Aqu
 ### [**Bingo**](https://github.com/yancafer/bingo-app) 
 >Este é um aplicativo de bingo online criado com **React** e **TypeScript**. Ele oferece uma experiência interativa para jogos de bingo, com funcionalidades de sorteio de números e frases temáticas.
 
-## Tecnologias Utilizadas:
-
-- **React** com **TypeScript**
-- API de **Speech Synthesis** para leitura de frases
-- Estilização com **CSS**
+- 🛠️ **Tecnologias:** ReactJS, Vite, API de **Speech Synthesis** para leitura de frases e estilização com **CSS**
 
 - 🗓️ **Funcionalidades:** 
   - Sorteio de números do bingo (B, I, N, G, O) com faixas específicas.
