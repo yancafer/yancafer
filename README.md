@@ -59,17 +59,6 @@ Acredito que a tecnologia pode simplificar vidas e resolver problemas reais. Aqu
   - Foco em personalização para o tema natalino 🎄.
 - 🚀 **Status:** Finalizado!
 
-### [**Habit-keeper**](https://github.com/yancafer/habit-keeper)  
-> Um sistema web para rastrear hábitos e auxiliar na resolução de tarefas diárias (TO DO).
-
-- 🛠️ **Tecnologias:** Next.js, TypeScript, Supabase.
-- 🗓️ **Funcionalidades:**  
-  - Rastreamento de hábitos com visualização do progresso diário, semanal e mensal.
-  - Criação e organização de tarefas na forma de um TO DO interativo.
-  - Painel personalizado para cada usuário, ajudando na produtividade.
-- 🚀 **Status:** Em desenvolvimento, com funcionalidades básicas já implementadas.
-  
-
 ## 📚 O Que Estou Aprendendo Atualmente
 
 - 🚀 **TypeScript:** Melhorando meu fluxo de desenvolvimento.
