@@ -4,86 +4,77 @@
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="Girl Coding GIF">
 </div>
 
-Bem-vindo(a) ao meu perfil do GitHub! Aqui compartilho projetos que refletem minha paixão por desenvolvimento web, aprendizado contínuo e resolução de problemas reais com tecnologia.
+## Índice
+- [Sobre Mim](#sobre-mim)
+- [Tecnologias que Amo Usar](#tecnologias-que-amo-usar)
+- [Projetos em Destaque](#projetos-em-destaque)
+- [Estatísticas GitHub](#estatísticas-github)
+- [Conquistas](#conquistas)
+- [Conecte-se Comigo](#conecte-se-comigo)
 
 ---
 
-## 🚀 Sobre Mim
+## Sobre Mim
 
-Sou a Yanca Fernandes, uma desenvolvedora apaixonada por transformar ideias em soluções criativas e funcionais. Minha jornada na tecnologia começou com Python e interfaces gráficas, mas atualmente estou imersa no universo de **React** com **TypeScript**, criando aplicações modernas e eficientes.
+Sou a **Yanca Fernandes**, desenvolvedora apaixonada por transformar ideias em soluções criativas e funcionais. Minha jornada começou com Python e interfaces gráficas, e hoje estou imersa no universo de **React** com **TypeScript**, criando aplicações modernas e eficientes.
 
-Adoro aprender novas tecnologias e explorar desafios que me ajudam a evoluir como profissional e como pessoa. Com um olhar especial para **design UX/UI**, busco criar interfaces que não apenas funcionem bem, mas também proporcionem uma experiência incrível aos usuários.
+**Objetivos Atuais:**
+- 🚀 **Dominar TypeScript** para desenvolver códigos robustos e escaláveis.
+- 📱 **Expandir conhecimentos em React Native** para experiências mobile impactantes.
+- 🔍 **Integrar e automatizar processos com APIs** para aplicações mais dinâmicas.
 
-Meus objetivos atuais incluem:
-- 🚀 Dominar **TypeScript** para desenvolver códigos mais robustos e escaláveis.
-- 📱 Expandir conhecimentos em **React Native** e criar experiências impactantes no mundo mobile.
-- 🔍 Integrar e automatizar processos usando **APIs**, tornando as aplicações ainda mais dinâmicas.
-
-Acredito que a tecnologia pode simplificar vidas e resolver problemas reais. Aqui você encontrará projetos que refletem esse propósito e o desejo de fazer a diferença com inovação e criatividade.
+Acredito que a tecnologia pode simplificar vidas e resolver problemas reais.
 
 ---
 
-## 🔧 Tecnologias que Amo Usar
+## Tecnologias que Amo Usar
 
-<div style="display: inline_block"><br>
+<div align="center">
   <img align="center" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript"/>
   <img align="center" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript"/>
   <img align="center" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React"/>
   <img align="center" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js"/>  
   <img align="center" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5"/>
   <img align="center" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3"/>
-  <img align="center" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python"/> 
+  <img align="center" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python"/>
 </div>
 
 ---
 
-## 💡 Meus Projetos Principais
+## Projetos em Destaque
 
-### [**Ifatech**](https://ifatech-web.vercel.app/)  
-> Um sistema inovador para resolver a logística de distribuição de lanches no **IFAC (Xapuri)**.
+### [Ifatech](https://ifatech-web.vercel.app/)
+Um sistema inovador para automatizar a logística de distribuição de lanches no **IFAC (Xapuri)**.
+- **Tecnologias:** ReactJS, Vite, Supabase.
+- **Status:** Em desenvolvimento (fase final de ajustes).
 
-- 🛠️ **Tecnologias:** ReactJS, Vite, Supabase.
-- 📌 **Problema Resolvido:** Automatiza o controle de distribuição de lanches, usando QR codes para verificar se o aluno está apto a receber.
-- 🚀 **Status:** Em desenvolvimento, na fase final de ajustes.
-
-### [**Bingo**](https://github.com/yancafer/bingo-app) 
->Este é um aplicativo de bingo online criado com **React** e **TypeScript**. Ele oferece uma experiência interativa para jogos de bingo, com funcionalidades de sorteio de números e frases temáticas.
-
-- 🛠️ **Tecnologias:** ReactJS, Vite, API de **Speech Synthesis** para leitura de frases e estilização com **CSS**
-
-- 🗓️ **Funcionalidades:** 
+### [Bingo](https://github.com/yancafer/bingo-app)
+Aplicativo de bingo online que oferece uma experiência interativa:
+- **Tecnologias:** ReactJS, Vite, API de Speech Synthesis e CSS.
+- **Funcionalidades:**
   - Sorteio de números do bingo (B, I, N, G, O) com faixas específicas.
-  - Frases temáticas para anunciar os números a partir do quinto sorteio.
-  - Reinício do jogo com números reembaralhados.
-  - Reprodução das chamadas em português com suporte a frases específicas para números como "Dois patinhos na lagoa" e "Idade de Cristo".
-  - Foco em personalização para o tema natalino 🎄.
-- 🚀 **Status:** Finalizado!
+  - Frases temáticas a partir do quinto sorteio.
+  - Reinício do jogo com reembaralhamento de números.
+  - Chamadas em português com frases icônicas, como “Dois patinhos na lagoa”.
+  - Temática natalina.
+- **Status:** Finalizado!
 
-## 📚 O Que Estou Aprendendo Atualmente
-
-- 🚀 **TypeScript:** Melhorando meu fluxo de desenvolvimento.
-- 📱 **React Native:** Explorando o universo mobile.
-- 🔍 **Integrações com APIs:** Automatizando tarefas e melhorando interações.
+Você também pode conferir:
+- [Ifatech](https://github.com/yancafer/ifatech-web) – Sistema de controle de lanches.
+- [Bingo](https://github.com/yancafer/bingo-app) – Bingo Online!
 
 ---
 
-## 🏆 Projetos em Destaque
-
-- [**Ifatech**](https://github.com/yancafer/ifatech-web) - Sistema de controle de lanches para o IFAC.
-- [**Bingo**](https://github.com/yancafer/bingo-app) - Bingo Online!
-
----
-
-## 📊 Minhas Estatísticas
+## Estatísticas GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yancafer&show_icons=true&theme=radical" alt="Yanca Fernandes GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yancafer&layout=compact&langs_count=8&theme=radical" alt="Yanca Fernandes Top Languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yancafer&show_icons=true&theme=radical&cache_seconds=1800" alt="Yanca Fernandes GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yancafer&layout=compact&langs_count=8&theme=radical&cache_seconds=1800" alt="Yanca Fernandes Top Languages"/>
 </div>
 
 ---
 
-## 🏅 Minhas Conquistas
+## Conquistas
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=yancafer&theme=radical" alt="Trophies"/>
@@ -91,7 +82,7 @@ Acredito que a tecnologia pode simplificar vidas e resolver problemas reais. Aqu
 
 ---
 
-## 🌐 Conecte-se Comigo
+## Conecte-se Comigo
 
 <div align="center">
   <a href="https://www.linkedin.com/in/yanca-fernandes/" target="_blank">
