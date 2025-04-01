@@ -71,7 +71,6 @@ Acredito que a tecnologia pode simplificar vidas e resolver problemas reais. Aqu
 
 - [**Ifatech**](https://github.com/yancafer/ifatech-web) - Sistema de controle de lanches para o IFAC.
 - [**Bingo**](https://github.com/yancafer/bingo-app) - Bingo Online!
-- [**Habit-keeper**](https://github.com/yancafer/habit-keeper) - Sistema de rastreamento de hábitos com TO DO interativo.
 
 ---
 
