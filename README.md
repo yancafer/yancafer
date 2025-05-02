@@ -1,4 +1,4 @@
-# Oiiii, eu sou a Yanca Fernandes! 👋
+# Oiii, eu sou a Yanca Fernandes! 👋
 
 <div align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="Girl Coding GIF">
@@ -6,62 +6,80 @@
 
 ## Índice
 - [Sobre Mim](#sobre-mim)
-- [Tecnologias que Amo Usar](#tecnologias-que-amo-usar)
+- [Tecnologias que Uso no Dia a Dia](#tecnologias-que-uso-no-dia-a-dia)
 - [Projetos em Destaque](#projetos-em-destaque)
 - [Estatísticas GitHub](#estatísticas-github)
 - [Conquistas](#conquistas)
 - [Conecte-se Comigo](#conecte-se-comigo)
 
-----
+---
 
 ## Sobre Mim
 
-Sou a **Yanca Fernandes**, desenvolvedora apaixonada por transformar ideias em soluções criativas e funcionais. Minha jornada começou com Python e interfaces gráficas, e hoje estou imersa no universo de **React** com **TypeScript**, criando aplicações modernas e eficientes.
+Sou **Yanca Fernandes**, desenvolvedora web com foco em criar experiências digitais funcionais, organizadas e com uma boa dose de personalidade. Mais do que escrever código, gosto de **resolver problemas com uma interface que faça sentido para o usuário final** — pensando em responsividade, acessibilidade e fluxo real de uso.
 
-**Objetivos Atuais:**
-- 🚀 **Dominar TypeScript** para desenvolver códigos robustos e escaláveis.
-- 📱 **Expandir conhecimentos em React Native** para experiências mobile impactantes.
-- 🔍 **Integrar e automatizar processos com APIs** para aplicações mais dinâmicas.
+Comecei com Python e fui migrando para o desenvolvimento de interfaces modernas com **React e TypeScript**, unindo performance e clareza de código. Também me envolvo diretamente com decisões de **UX/UI**, buscando sempre que o layout e a lógica conversem bem entre si.
 
-Acredito que a tecnologia pode simplificar vidas e resolver problemas reais.
+💡 Gosto de transformar ideias em protótipos vivos — seja com Vite, Zustand, Tailwind ou Supabase.
+
+🎯 Hoje, meu foco está em:
+- Criar **componentes reutilizáveis e acessíveis**
+- Desenvolver interfaces com **visual limpo e responsivo**
+- Integrar aplicações com APIs, autenticação, banco de dados e automações
+- Evoluir meus projetos pessoais como produtos reais: apps, sistemas e ferramentas
+
+👀 Meus projetos são reflexo do que acredito: **tecnologia não precisa ser complexa para ser eficiente.**
 
 ---
 
-## Tecnologias que Amo Usar
+## Tecnologias que Uso no Dia a Dia
 
 <div align="center">
-  <img align="center" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript"/>
-  <img align="center" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript"/>
-  <img align="center" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React"/>
-  <img align="center" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js"/>  
-  <img align="center" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5"/>
-  <img align="center" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3"/>
-  <img align="center" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python"/>
+	<table>
+		<tr>
+			<td><code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" title="Git"/></code></td>
+			<td><code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" alt="Visual Studio Code" title="Visual Studio Code"/></code></td>
+			<td><code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" alt="React" title="React"/></code></td>
+			<td><code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="JavaScript" title="JavaScript"/></code></td>
+			<td><code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png" alt="TypeScript" title="TypeScript"/></code></td>
+			<td><code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/next_js.png" alt="Next.js" title="Next.js"/></code></td>
+			<td><code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tailwind_css.png" alt="Tailwind CSS" title="Tailwind CSS"/></code></td>
+			<td><code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/figma.png" alt="Figma" title="Figma"/></code></td>
+		</tr>
+		<tr>
+			<td><code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="HTML" title="HTML"/></code></td>
+			<td><code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" alt="CSS" title="CSS"/></code></td>
+			<td><code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vite.png" alt="Vite" title="Vite"/></code></td>
+			<td><code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/firebase.png" alt="Firebase" title="Firebase"/></code></td>
+			<td><code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/shadcn_ui.png" alt="ShadCn UI" title="ShadCn UI"/></code></td>
+			<td><code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/supabase.png" alt="Supabase" title="Supabase"/></code></td>
+			<td><code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png" alt="Node.js" title="Node.js"/></code></td>
+			<td><code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python"/></code></td>
+		</tr>
+	</table>
 </div>
-
 ---
 
 ## Projetos em Destaque
 
 ### [Ifatech](https://ifatech-web.vercel.app/)
-Um sistema inovador para automatizar a logística de distribuição de lanches no **IFAC (Xapuri)**.
-- **Tecnologias:** ReactJS, Vite, Supabase.
-- **Status:** Em desenvolvimento (fase final de ajustes).
+Sistema que organiza a logística de distribuição de lanches no **IFAC (Xapuri)**.
+- **Stack:** ReactJS, Vite, Supabase
+- **Destaques:** Painel de controle administrativo, fluxo otimizado e foco em acessibilidade.
+- **Status:** Em fase final de ajustes.
 
-### [Bingo](https://github.com/yancafer/bingo-app)
-Aplicativo de bingo online que oferece uma experiência interativa:
-- **Tecnologias:** ReactJS, Vite, API de Speech Synthesis e CSS.
-- **Funcionalidades:**
-  - Sorteio de números do bingo (B, I, N, G, O) com faixas específicas.
-  - Frases temáticas a partir do quinto sorteio.
-  - Reinício do jogo com reembaralhamento de números.
-  - Chamadas em português com frases icônicas, como “Dois patinhos na lagoa”.
-  - Temática natalina.
-- **Status:** Finalizado!
+### [Bingo Natalino](https://github.com/yancafer/bingo-app)
+App web de bingo online com tema de Natal 🎄, frases temáticas e sorteio interativo.
+- **Stack:** React, Vite, Speech Synthesis, CSS
+- **Destaques:**
+  - Números organizados por letras (B-I-N-G-O)
+  - Frases como “Dois patinhos na lagoa” a partir do 5º número
+  - Reinício automático com reembaralhamento
+- **Status:** Finalizado
 
 Você também pode conferir:
-- [Ifatech](https://github.com/yancafer/ifatech-web) – Sistema de controle de lanches.
-- [Bingo](https://github.com/yancafer/bingo-app) – Bingo Online!
+- [Ifatech Web (Repositório)](https://github.com/yancafer/ifatech-web)
+- [Bingo App (Repositório)](https://github.com/yancafer/bingo-app)
 
 ---
 
