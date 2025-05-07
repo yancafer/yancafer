@@ -83,12 +83,22 @@ Você também pode conferir:
 
 ---
 
-## Estatísticas GitHub
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yancafer&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yancafer&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/yancafer/yancafer/output/snake.svg" alt="Snake animation" />
+
+###
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yancafer&show_icons=true&theme=radical&cache_seconds=1800" alt="Yanca Fernandes GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yancafer&layout=compact&langs_count=8&theme=radical&cache_seconds=1800" alt="Yanca Fernandes Top Languages"/>
+  <img src="https://profile-counter.glitch.me/yancafer/count.svg?"  />
 </div>
+
+###
 
 ---
 
