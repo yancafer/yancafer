@@ -8,8 +8,6 @@
 - [Sobre Mim](#sobre-mim)
 - [Tecnologias que Uso no Dia a Dia](#tecnologias-que-uso-no-dia-a-dia)
 - [Projetos em Destaque](#projetos-em-destaque)
-- [Estatísticas GitHub](#estatísticas-github)
-- [Conquistas](#conquistas)
 - [Conecte-se Comigo](#conecte-se-comigo)
 
 ---
@@ -80,23 +78,6 @@ App web de bingo online com tema de Natal 🎄, frases temáticas e sorteio inte
 Você também pode conferir:
 - [Ifatech Web (Repositório)](https://github.com/yancafer/ifatech-web)
 - [Bingo App (Repositório)](https://github.com/yancafer/bingo-app)
-
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yancafer&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yancafer&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
----
-
-## Conquistas
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yancafer&theme=radical" alt="Trophies"/>
-</div>
-
----
 
 ## Conecte-se Comigo
 
