@@ -1,100 +1,81 @@
-# Oiii, eu sou a Yanca Fernandes! 👋
-
 <div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="Girl Coding GIF">
-</div>
 
-## Índice
-- [Sobre Mim](#sobre-mim)
-- [Tecnologias que Uso no Dia a Dia](#tecnologias-que-uso-no-dia-a-dia)
-- [Projetos em Destaque](#projetos-em-destaque)
-- [Conecte-se Comigo](#conecte-se-comigo)
+# Yanca Fernandes
+
+**Desenvolvedora Front-end · UX-minded · Criadora de produtos digitais**
+
+Transformo ideias em interfaces que funcionam de verdade — com código limpo, foco no usuário e uma boa dose de personalidade.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yanca-fernandes/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yan.desgn/)
+[![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://yancafernandes.dev.br/)
+
+</div>
 
 ---
 
-## Sobre Mim
+## Sobre mim
 
-Sou **Yanca Fernandes**, desenvolvedora web com foco em criar experiências digitais funcionais, organizadas e com uma boa dose de personalidade. Mais do que escrever código, gosto de **resolver problemas com uma interface que faça sentido para o usuário final** — pensando em responsividade, acessibilidade e fluxo real de uso.
+Sou desenvolvedora web com foco em **Next.js + TypeScript**, apaixonada por criar experiências digitais que são ao mesmo tempo funcionais e bem pensadas. Entro no projeto pensando na interface como produto — não só como código.
 
-Comecei com Python e fui migrando para o desenvolvimento de interfaces modernas com **React e TypeScript**, unindo performance e clareza de código. Também me envolvo diretamente com decisões de **UX/UI**, buscando sempre que o layout e a lógica conversem bem entre si.
+Comecei com Python, migrei para o ecossistema JavaScript moderno e hoje trabalho com todo o ciclo: do design no Figma até a integração com APIs, autenticação e banco de dados em produção.
 
-💡 Gosto de transformar ideias em protótipos vivos — seja com Vite, Zustand, Tailwind ou Supabase.
+Além do desenvolvimento, tenho interesse em **UX/UI**, automação e ferramentas que ajudam pessoas a trabalharem melhor.
 
-🎯 Hoje, meu foco está em:
-- Criar **componentes reutilizáveis e acessíveis**
-- Desenvolver interfaces com **visual limpo e responsivo**
-- Integrar aplicações com APIs, autenticação, banco de dados e automações
-- Evoluir meus projetos pessoais como produtos reais: apps, sistemas e ferramentas
-
-👀 Meus projetos são reflexo do que acredito: **tecnologia não precisa ser complexa para ser eficiente.**
+```
+Linguagens favoritas:   TypeScript  →  quando precisa escalar
+                        Python      →  quando precisa de agilidade
+Stack atual:            Next.js + TypeScript + Tailwind
+```
 
 ---
 
-## Tecnologias que Uso no Dia a Dia
+## Tecnologias
 
 <div align="center">
-	<table>
-		<tr>
-			<td><code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" title="Git"/></code></td>
-			<td><code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" alt="Visual Studio Code" title="Visual Studio Code"/></code></td>
-			<td><code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" alt="React" title="React"/></code></td>
-			<td><code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="JavaScript" title="JavaScript"/></code></td>
-			<td><code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png" alt="TypeScript" title="TypeScript"/></code></td>
-			<td><code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/next_js.png" alt="Next.js" title="Next.js"/></code></td>
-			<td><code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tailwind_css.png" alt="Tailwind CSS" title="Tailwind CSS"/></code></td>
-			<td><code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/figma.png" alt="Figma" title="Figma"/></code></td>
-		</tr>
-		<tr>
-			<td><code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="HTML" title="HTML"/></code></td>
-			<td><code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" alt="CSS" title="CSS"/></code></td>
-			<td><code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vite.png" alt="Vite" title="Vite"/></code></td>
-			<td><code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/firebase.png" alt="Firebase" title="Firebase"/></code></td>
-			<td><code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/shadcn_ui.png" alt="ShadCn UI" title="ShadCn UI"/></code></td>
-			<td><code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/supabase.png" alt="Supabase" title="Supabase"/></code></td>
-			<td><code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png" alt="Node.js" title="Node.js"/></code></td>
-			<td><code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python"/></code></td>
-		</tr>
-	</table>
+
+| Front-end | Ferramentas | Back-end & Dados |
+|-----------|-------------|-----------------|
+| ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) | ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Shadcn/UI](https://img.shields.io/badge/shadcn%2Fui-000?style=flat-square&logo=shadcnui&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) | ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) | |
+
 </div>
+
 ---
 
 ## Projetos em Destaque
 
-### [Ifatech](https://ifatech-web.vercel.app/)
-Sistema que organiza a logística de distribuição de lanches no **IFAC (Xapuri)**.
-- **Stack:** ReactJS, Vite, Supabase
-- **Destaques:** Painel de controle administrativo, fluxo otimizado e foco em acessibilidade.
-- **Status:** Em fase final de ajustes.
+### 🏫 Ifatech — Sistema de Logística Escolar
+> Organiza a distribuição de lanches no IFAC (campus Xapuri) com painel administrativo e fluxo de controle.
 
-### [Bingo Natalino](https://github.com/yancafer/bingo-app)
-App web de bingo online com tema de Natal 🎄, frases temáticas e sorteio interativo.
-- **Stack:** React, Vite, Speech Synthesis, CSS
-- **Destaques:**
-  - Números organizados por letras (B-I-N-G-O)
-  - Frases como “Dois patinhos na lagoa” a partir do 5º número
-  - Reinício automático com reembaralhamento
+- **Stack:** React · Vite · Firebase
+- **Destaques:** Controle de turmas, acessibilidade e interface pensada para uso real no dia a dia da instituição
+- **Status:** Em ajustes finais
+
+🔗 [ifatech-web.vercel.app](https://ifatech-web.vercel.app/) · [Repositório](https://github.com/yancafer/ifatech-web)
+
+---
+
+### 🎄 Bingo Natalino — App de Bingo Online
+> Bingo temático com frases clássicas, sorteio interativo e narração via Speech Synthesis.
+
+- **Stack:** React · Vite · CSS · Web Speech API
+- **Destaques:** Letras B-I-N-G-O, frases como "Dois patinhos na lagoa" e reinício automático com reembaralhamento
 - **Status:** Finalizado
 
-Você também pode conferir:
-- [Ifatech Web (Repositório)](https://github.com/yancafer/ifatech-web)
-- [Bingo App (Repositório)](https://github.com/yancafer/bingo-app)
+🔗 [Repositório](https://github.com/yancafer/bingo-app)
 
-## Conecte-se Comigo
+---
+
+## GitHub Stats
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/yanca-fernandes/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://www.instagram.com/yan.desgn/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="https://yancafernandes.dev.br/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=web&logoColor=white" alt="Portfólio">
-  </a>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=yancafer&show_icons=true&theme=dark&hide_border=true&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yancafer&layout=compact&theme=dark&hide_border=true" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/banner.gif" alt="Coding Banner GIF">
+  <sub>Feito com foco e café ☕ · Aberta a colaborações e oportunidades</sub>
 </div>
