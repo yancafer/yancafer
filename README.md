@@ -73,15 +73,6 @@ Stack atual:            Next.js + TypeScript + Tailwind
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=yancafer&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Estatísticas do GitHub de Yanca Fernandes" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yancafer&layout=compact&theme=dark&hide_border=true" alt="Linguagens mais usadas por Yanca Fernandes" />
-</div>
-
----
-
 <div align="center">
   <sub>Feito com foco e café ☕ · Aberta a colaborações e oportunidades</sub>
 </div>
